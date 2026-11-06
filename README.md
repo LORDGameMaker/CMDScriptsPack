@@ -1,4 +1,4 @@
-CMDScriptsPack - pack with 29 .cmd scripts which can make your Windows 7 better!
+CMDScriptsPack - pack with 28 .cmd scripts which can make your Windows 7 better!
 
 You can disable services, clear history of opened files and more!
 Every version - new script/scripts, every hotfix - fixing non-working or working with bugs scripts.
